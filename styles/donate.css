@@ -1,0 +1,178 @@
+
+*{
+     margin: 0;
+     padding: auto;
+     background-color: #16161600;;
+}
+.banner img{
+     width: 1400px;
+    position: relative;
+height: 669px;
+}
+.banner-text{
+width: 826px;
+bottom: 0;
+height:400px;
+left: 400px;
+position: absolute;
+background: linear-gradient(360deg, #11111100 0%, rgba(248, 237, 237, 0) 100%);
+text-align: center;
+color: #FFFFFF;
+}
+main{
+     max-width: 1140px;
+     margin: 0 auto;
+}
+.donate-title{
+     font-weight: 700;
+     font-size: 45px;
+     margin-top: 130px;
+     text-align: center;
+}
+.info{
+     justify-content: space-around;
+     display: flex;
+     margin-top: 50px;
+}
+.about-info{
+     font-weight: 700;
+     font-size: 30px;
+}
+.info-title{
+     font-weight: 700;
+     font-size: 30px;
+     color: #FF5959;
+     background: #FFEEEE;
+     border: 2px solid #FF5959;
+     border-radius: 5px;
+}
+.info-sub-title{
+     font-weight: 700;
+     font-size: 30px;     
+}
+.info-description{
+     font-weight: 700;
+     font-size: 30px;
+}
+.sub-donate{
+     font-weight: 400;
+     font-size: 18px;
+     color: #B3B3B3;
+     text-align: center;
+     margin-top: 60px;
+}
+.btn-primary{
+     background: #FF5959;
+     padding: 16px 12px;
+     border-radius: 5px;
+     color: #FFFFFF;
+    margin-top: 15px ;
+
+}
+section{
+     text-align: center; 
+  
+}
+.section-title{
+     font-weight: 700;
+     font-size: 45px;
+     margin-top: 130px;
+}
+.section-sub-title{
+     align-items: center;
+     font-weight: 400;
+     font-size: 18px;
+} 
+.skill-container{
+    display: flex;
+    padding: 18px 35px;
+    gap: 10px;
+    
+}
+.skill-title{
+     font-weight: 600;
+     font-size: 24px;
+     text-align: center;
+} 
+.skill-description{
+     font-weight: 400;
+     font-size: 16px;
+     color: #707070;
+     text-align: center;
+} 
+.skill{
+     background: rgba(79, 157, 166, 0.1);
+}
+.skill-title{
+     background: rgba(255, 89, 89, 0.1);
+}
+.skill-sub-title{
+     background: #FFF4D6;
+} 
+.donate-banner{
+     display: flex;
+     align-items: center;
+}
+.banner-title{
+    text-align: center; 
+    
+}
+
+.img-title{
+     width: 456px;
+     height: 477px;
+margin-top: 30px;
+}
+.donation{
+display: flex;
+gap: 20px;
+padding: 18px 30px;
+align-items: center;
+}
+.donation-title{
+     font-weight: 700;
+     font-size: 45px;
+}
+.donation-sub-title{
+     font-weight: 400;
+     font-size: 18px;
+}
+.align{
+     display: flex;
+     padding: 18px 30px;
+     align-items: center;
+}
+.align-sub-title{
+     font-weight: 400;
+     font-size: 18px;
+     font-style: normal;
+     font-family: 'Poppins';
+     
+}
+.align-title{
+     font-family: 'Inter';
+     font-style: normal;
+     font-weight: 700;
+      font-size: 45px
+}
+.section2{
+     background: #0B0D17;
+     text-align: center;
+     margin-top: 300px;
+}
+.section2-sub-title{
+     color: #D9DBE1;
+}
+.section2-title{
+     color: #FF5959;
+} 
+.get-title{
+     font-weight: 700;
+     font-size: 45px;     
+}
+.butn-primary{
+     color: #FFFFFF;
+     background: #FFF4D6;
+     background: #FF5959;
+     margin-top: 30px;
+}
